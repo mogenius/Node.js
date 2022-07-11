@@ -9,5 +9,3 @@ This is a template to run Node.js on [mogenius](https://mogenius.com). We use it
 - Read the docs: [docs.mogenius.com](https://docs.mogenius.com)
 - Join our Discord community: [discord.gg/WSxnFHr4qm](https://discord.gg/WSxnFHr4qm)
 - Submit your ideas: [feedback.mogenius.com](https://feedback.mogenius.com)
-
-Credits: [https://github.com/ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter)
